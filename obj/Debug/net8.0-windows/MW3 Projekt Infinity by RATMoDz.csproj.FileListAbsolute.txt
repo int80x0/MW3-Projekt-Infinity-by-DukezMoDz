@@ -1,0 +1,29 @@
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3 Projekt Infinity by RATMoDz.csproj.AssemblyReference.cache
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATModz.Form1.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATModz.Ip_Grabber.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATMoDz.Login.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATModz.MP3.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATModz.Mw3.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATModz.Phantom.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATModz.Preview.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATMoDz.Properties.Resources.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3_Projekt_Infinity_by_RATModz.Spoofer.resources
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3 Projekt Infinity by RATMoDz.csproj.GenerateResource.cache
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3 Projekt Infinity by RATMoDz.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3 Projekt Infinity by RATMoDz.csproj.CoreCompileInputs.cache
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.exe
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.dll.config
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.deps.json
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.runtimeconfig.json
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.dll
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.pdb
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\MetroFramework.Design.dll
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\MetroFramework.Fonts.dll
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\MetroFramework.dll
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\bin\Debug\net8.0-windows\ps3tmapi_net.dll
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3 Proj.214BD29D.Up2Date
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.dll
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\refint\RATMoDz v6.4 Private Edition.dll
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\RATMoDz v6.4 Private Edition.pdb
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\MW3 Projekt Infinity by RATMoDz.genruntimeconfig.cache
+E:\PS3\Games\mw3 dlcs\RATMoDz v6.4 Private Edition Source\MW3 Projekt Infinity by DukezMoDz\obj\Debug\net8.0-windows\ref\RATMoDz v6.4 Private Edition.dll
